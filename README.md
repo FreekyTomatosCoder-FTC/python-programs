@@ -1,2 +1,2 @@
 # python-programs
-here are my python program scripts
+here are my simple python program scripts
